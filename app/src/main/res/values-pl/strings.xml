@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SM_projekt</string>
+    <string name="backBtn">Powrót</string>
+    <string name="delete_title">Potrząśnij, by usunąć notatkę</string>
+    <string name="details_title">Szczegóły</string>
+    <string name="edit_title">Edytuj</string>
+    <string name="archive">ARCHIWUM</string>
+    <string name="notes">Notatki</string>
+    <string name="notes_header">NOTATKI</string>
+    <string name="archiveBtn">Archiwum</string>
+    <string name="add_new_note">Dodaj nową notatkę</string>
+    <string name="decription">Zawartość</string>
+    <string name="title">Tytuł</string>
+    <string name="save_note">ZAPISZ</string>
+    <string name="save_edited_note">ZAPISZ</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="archived">Przeniesiono do archiwum</string>
+    <string name="movedToNotes">Przeniesiono do notatek</string>
+    <string name="noteSaved">Notatka zapisana</string>
+    <string name="noteDeleted">Notatka usunięta</string>
+</resources>

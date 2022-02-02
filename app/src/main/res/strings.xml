@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SM_projekt</string>
+    <string name="backBtn">BACK</string>
+    <string name="delete_title">Shake to delete this note</string>
+</resources>

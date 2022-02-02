@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SM_projekt</string>
+    <string name="backBtn">BACK</string>
+    <string name="delete_title">Shake to delete this note</string>
+    <string name="details_title">Details</string>
+    <string name="edit_title">Edit note</string>
+    <string name="archive">ARCHIVE</string>
+    <string name="notes">Notes</string>
+    <string name="notes_header">NOTES</string>
+    <string name="archiveBtn">Archive</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="decription">Content</string>
+    <string name="title">Title</string>
+    <string name="save_note">SAVE NOTE</string>
+    <string name="save_edited_note">SAVE EDITED NOTE</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">CANCEL</string>
+    <string name="archived">Moved to archive</string>
+    <string name="movedToNotes">Moved to notes</string>
+    <string name="noteSaved">Note saved</string>
+    <string name="noteDeleted">Note deleted</string>
+
+</resources>
